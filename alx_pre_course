@@ -3,5 +3,5 @@ git init
 git add README.md 
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/natitechnology/alx_pre_course.git
+git remote add origin https://I'm now a ALX student, this is my first repository as a full-stack engineer@github.com/natitechnology/alx_pre_course.git
 git push -u orgin main
